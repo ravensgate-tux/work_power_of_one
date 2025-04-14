@@ -57,11 +57,11 @@
 
 ---
 
-## 📚 参考文献
+### 📚 参考文献
 本ワークは、Dolores Ashcroft-Nowicki 著『Your Unseen Power』の内容に基づき、個人の実践に合わせて再構成したものです。
 儀式文の原文と構成はオリジナルに敬意を表しつつ、非商用・研究目的にて公開しています。
 
-## 📚 References / 参考文献
+### 📚 References / 参考文献
 This inner work is inspired by Your Unseen Power by Dolores Ashcroft-Nowicki.
 The invocation text is adapted for personal practice with respect to the original, and shared for non-commercial and educational purposes.
 
